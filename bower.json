@@ -1,0 +1,22 @@
+{
+  "name": "cordova-bootstrap",
+  "main": "index.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/chalettu/cordova-bootstrap",
+  "authors": [
+    "Chris Hale"
+  ],
+  "description": "This angular module is useful in helping add cordova.js automatically to your cordova project",
+  "keywords": [
+    "cordova"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/js/libs/",
+    "test",
+    "tests"
+  ]
+}
